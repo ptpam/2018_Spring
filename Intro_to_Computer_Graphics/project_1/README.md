@@ -1,4 +1,4 @@
-# CMPE 460 Introduction to Computer Graphics
+# Introduction to Computer Graphics
 ## Project I 
 ### Simple Ray Tracing
 
